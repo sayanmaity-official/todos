@@ -1,0 +1,14 @@
+.container-fluid {
+    background: url(/img/bg.jpg) no-repeat center center fixed;
+    background-size: cover;
+    opacity: 0.9;
+    height: 80vh;
+}
+body {
+    display: flex;
+    flex-direction: column;
+}
+header,
+footer {
+    height: 10vh;
+}
